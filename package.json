@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "NotGenji",
   "main": "bot.js",
+  "scripts": 
+    {"start":"node bot.js"},
   "author": "DeltaVega",
   "dependencies": {
     "discord.io": "^2.5.3",
